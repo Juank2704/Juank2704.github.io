@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](google-cybersecurity-professional-certificate-v2.png)
 
 ### Large image
 
