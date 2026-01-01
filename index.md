@@ -9,7 +9,7 @@ I'm Juan Olarte, a System engineer student in last year, curious and passionate 
 What you're about to see now is my path toward becoming a skilled cybersecurity professional.
 
 # Certifications
-
+--- 
 ## Google Cybersecurity Analyst.
 
 ![Octocat](Screenshot 2026-01-01 144800.png)
