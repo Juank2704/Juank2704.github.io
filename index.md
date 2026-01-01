@@ -14,7 +14,7 @@ I'm Juan Olarte, a System engineer student in last year, curious and passionate 
 [Link to another page](./another-page.html).
 [Link to another page](./another-page.html).
 
-![Octocat](google-cybersecurity-professional-certificate-v2.png)
+![Octocat](Screenshot 2026-01-01 144800.png)
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
