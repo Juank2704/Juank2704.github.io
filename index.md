@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 I'm Juan Olarte, a System engineer student in last year, curious and passionate about cibersecurity. What you're about to see now is my path toward becoming a skilled cybersecurity professional.
 
-#Certifications
+# Certifications
 
 [Google Certificate](GoogleCybersecurityProfessionalCertificateV2_Badge20250730-31-b80osk.pdf).
 
@@ -14,7 +14,7 @@ I'm Juan Olarte, a System engineer student in last year, curious and passionate 
 [Link to another page](./another-page.html).
 [Link to another page](./another-page.html).
 
-![Octocat](google-cybersecurity-professional-certificate-v2.png)
+![Octocat](GoogleCybersecurityProfessionalCertificateV2_Badge20250730-31-b80osk.pdf)
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
