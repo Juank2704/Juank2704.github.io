@@ -17,7 +17,14 @@ What you're about to see now is my path toward becoming a skilled cybersecurity 
 
 The Google Cibersecurity Analyst course was mi first view to the cibersecurity world and it create good bases for my knowledge.
 
-## 
+--- 
+
+## Data Bases Basics
+![Octocat](bd_certificado.png)
+[DB Certificate](https://eanx.co/certificate/aSggEqUTpv).
+
+A good explanation of conseptual foundations from DB.
+
 
 [Link to another page](./another-page.html).
 [Link to another page](./another-page.html).
