@@ -8,7 +8,7 @@ I'm Juan Olarte, a System engineer student in last year, curious and passionate 
 
 # Certifications
 
-[Google Certificate](GoogleCybersecurityProfessionalCertificateV2_Badge20250730-31-b80osk.pdf).
+[Google Certificate](https://coursera.org/share/b80037a5a918023d1fae9f27a3f3aa50).
 
 [Link to another page](./another-page.html).
 [Link to another page](./another-page.html).
