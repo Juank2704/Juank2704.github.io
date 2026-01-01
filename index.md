@@ -4,9 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-I'm Juan Olarte, a System engineer student in last year, curious and passionate about cibersecurity. 
-
-What you're about to see now is my path toward becoming a skilled cybersecurity professional.
+<h1>I'm Juan Olarte, a System engineer student in last year, curious and passionate about cibersecurity. 
+What you're about to see now is my path toward becoming a skilled cybersecurity professional.<\h1>
 
 # Certifications
 --- 
