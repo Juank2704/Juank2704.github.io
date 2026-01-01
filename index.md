@@ -4,6 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+I'm Juan Olarte, a System engineer student in last year, curious and passionate about cibersecurity. What you're about to see now is my path toward becoming a skilled cybersecurity professional.
+
+#Certifications
+
 [Google Certificate](https://coursera.org/share/b80037a5a918023d1fae9f27a3f3aa50).
 
 [Link to another page](./another-page.html).
