@@ -14,7 +14,7 @@ I'm Juan Olarte, a System engineer student in last year, curious and passionate 
 [Link to another page](./another-page.html).
 [Link to another page](./another-page.html).
 
-![Octocat](GoogleCybersecurityProfessionalCertificateV2_Badge20250730-31-b80osk.pdf)
+![Octocat](google-cybersecurity-professional-certificate-v2.png)
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -107,7 +107,7 @@ end
 
 ### Large image
 
-![Branching](GoogleCybersecurityProfessionalCertificateV2_Badge20250730-31-b80osk.pdf)
+![Branching](google-cybersecurity-professional-certificate-v2.png)
 
 
 ### Definition lists can be used with HTML syntax.
