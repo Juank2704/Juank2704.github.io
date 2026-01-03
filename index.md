@@ -1,10 +1,6 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#Portafolio 
 
-  
 I'm Juan Olarte, a System engineer student in last year, curious and passionate about cibersecurity. 
 What you're about to see now is my path toward becoming a skilled cybersecurity professional.
   
@@ -35,127 +31,27 @@ A good explanation of conseptual foundations from DB.
   <img src="netSuccessSs.png" style="width: 300px; height: 200px; object-fit: cover;">
 </div>
 
-In the university we made this network to understand the layers of communication, some protocols and how the networks work.
+In the university we made this network to understand the layers of communication, some protocols and how the networks work. Also we prove that the network work.
 
+---
 
+## Wireshark
+![Octocat](whiresharkSs.png)
 
+Here is a basic consult before doing a ping to www.google.com (this is just the request) 
 
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    I’m Juan Camilo Olarte, a Systems Engineering student with a strong interest in cybersecurity, programming, 
+    and digital technologies. I hold the Google Cybersecurity Professional Certificate (2024) and have experience 
+    working with Python, Linux, SIEM tools, SQL, and security frameworks such as NIST. I enjoy solving problems, 
+    learning new technologies, and applying my knowledge to real-world projects. My goal is to grow as a 
+    cybersecurity professional while building impactful and secure digital solutions.
+  </p>
+</section>
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](google-cybersecurity-professional-certificate-v2.png)
-
-### Large image
-
-![Branching](google-cybersecurity-professional-certificate-v2.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Thanks for being here :)
 ```
