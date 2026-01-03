@@ -30,10 +30,11 @@ A good explanation of conseptual foundations from DB.
 # Technical Skills & Projects
 ---
 ## Cisco Packet Tracer 
-<p float="left">
-  <img src="netSs.png" height="250px" />
-  <img src="netSuccessSs.png" height="250px" />
-</p>
+<div style="display: flex; gap: 10px;">
+  <img src="netSs.png" style="width: 300px; height: 200px; object-fit: cover;">
+  <img src="netSuccessSs.png" style="width: 300px; height: 200px; object-fit: cover;">
+</div>
+
 In the university we made this network to understand the layers of communication, some protocols and how the networks work.
 
 
