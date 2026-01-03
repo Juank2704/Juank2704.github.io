@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 I'm Juan Olarte, a System engineer student in last year, curious and passionate about cibersecurity. 
 What you're about to see now is my path toward becoming a skilled cybersecurity professional.
   
-
+--- 
 # Certifications
 --- 
 ## Google Cybersecurity Analyst.
@@ -25,6 +25,16 @@ The Google Cibersecurity Analyst course was mi first view to the cibersecurity w
 [DB Certificate](https://eanx.co/certificate/aSggEqUTpv).
 
 A good explanation of conseptual foundations from DB.
+
+--- 
+# Technical Skills & Projects
+---
+## Cisco Packet Tracer 
+![Octocat](netSs.png) width=45%
+
+In the university we made this network to understand the layers of communication, some protocols and how the networks work.
+
+
 
 
 [Link to another page](./another-page.html).
